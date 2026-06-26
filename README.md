@@ -12,7 +12,7 @@
 🎓 B.Tech in Computer Science and Engineering at **KIIT University**  
 📍 Based in West Bengal, India  
 💡 Passionate about **AI-powered applications, frontend development, and low-level graphics programming**  
-🧠 Solved **500+ DSA problems** on LeetCode  
+🧠 Solved **800+ DSA problems** on LeetCode  
 🏆 3rd Place at **CONVERGE 2026 Hackathon**  
 ⚡ Love building creative projects using **Java, JavaScript, and AI APIs**
 
